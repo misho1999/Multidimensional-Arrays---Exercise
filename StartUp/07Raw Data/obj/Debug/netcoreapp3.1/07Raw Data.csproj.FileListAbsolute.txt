@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\StartUp\07Raw Data\obj\Debug\netcoreapp3.1\07Raw Data.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\StartUp\07Raw Data\obj\Debug\netcoreapp3.1\07Raw Data.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\StartUp\07Raw Data\obj\Debug\netcoreapp3.1\07Raw Data.AssemblyInfo.cs
+C:\Users\misho\source\repos\StartUp\07Raw Data\obj\Debug\netcoreapp3.1\07Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\StartUp\07Raw Data\bin\Debug\netcoreapp3.1\07Raw Data.exe
+C:\Users\misho\source\repos\StartUp\07Raw Data\bin\Debug\netcoreapp3.1\07Raw Data.deps.json
+C:\Users\misho\source\repos\StartUp\07Raw Data\bin\Debug\netcoreapp3.1\07Raw Data.runtimeconfig.json
+C:\Users\misho\source\repos\StartUp\07Raw Data\bin\Debug\netcoreapp3.1\07Raw Data.runtimeconfig.dev.json
+C:\Users\misho\source\repos\StartUp\07Raw Data\bin\Debug\netcoreapp3.1\07Raw Data.dll
+C:\Users\misho\source\repos\StartUp\07Raw Data\bin\Debug\netcoreapp3.1\07Raw Data.pdb
+C:\Users\misho\source\repos\StartUp\07Raw Data\obj\Debug\netcoreapp3.1\07Raw Data.dll
+C:\Users\misho\source\repos\StartUp\07Raw Data\obj\Debug\netcoreapp3.1\07Raw Data.pdb
+C:\Users\misho\source\repos\StartUp\07Raw Data\obj\Debug\netcoreapp3.1\07Raw Data.genruntimeconfig.cache

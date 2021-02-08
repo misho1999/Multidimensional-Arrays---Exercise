@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\RegularExpresion\forniture\bin\Debug\netcoreapp3.1\forniture.exe
+C:\Users\misho\source\repos\RegularExpresion\forniture\bin\Debug\netcoreapp3.1\forniture.deps.json
+C:\Users\misho\source\repos\RegularExpresion\forniture\bin\Debug\netcoreapp3.1\forniture.runtimeconfig.json
+C:\Users\misho\source\repos\RegularExpresion\forniture\bin\Debug\netcoreapp3.1\forniture.runtimeconfig.dev.json
+C:\Users\misho\source\repos\RegularExpresion\forniture\bin\Debug\netcoreapp3.1\forniture.dll
+C:\Users\misho\source\repos\RegularExpresion\forniture\bin\Debug\netcoreapp3.1\forniture.pdb
+C:\Users\misho\source\repos\RegularExpresion\forniture\obj\Debug\netcoreapp3.1\forniture.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\RegularExpresion\forniture\obj\Debug\netcoreapp3.1\forniture.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\RegularExpresion\forniture\obj\Debug\netcoreapp3.1\forniture.AssemblyInfo.cs
+C:\Users\misho\source\repos\RegularExpresion\forniture\obj\Debug\netcoreapp3.1\forniture.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\RegularExpresion\forniture\obj\Debug\netcoreapp3.1\forniture.dll
+C:\Users\misho\source\repos\RegularExpresion\forniture\obj\Debug\netcoreapp3.1\forniture.pdb
+C:\Users\misho\source\repos\RegularExpresion\forniture\obj\Debug\netcoreapp3.1\forniture.genruntimeconfig.cache

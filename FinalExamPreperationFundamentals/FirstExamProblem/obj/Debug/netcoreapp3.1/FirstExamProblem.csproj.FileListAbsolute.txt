@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\bin\Debug\netcoreapp3.1\FirstExamProblem.exe
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\bin\Debug\netcoreapp3.1\FirstExamProblem.deps.json
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\bin\Debug\netcoreapp3.1\FirstExamProblem.runtimeconfig.json
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\bin\Debug\netcoreapp3.1\FirstExamProblem.runtimeconfig.dev.json
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\bin\Debug\netcoreapp3.1\FirstExamProblem.dll
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\bin\Debug\netcoreapp3.1\FirstExamProblem.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\obj\Debug\netcoreapp3.1\FirstExamProblem.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\obj\Debug\netcoreapp3.1\FirstExamProblem.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\obj\Debug\netcoreapp3.1\FirstExamProblem.AssemblyInfo.cs
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\obj\Debug\netcoreapp3.1\FirstExamProblem.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\obj\Debug\netcoreapp3.1\FirstExamProblem.dll
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\obj\Debug\netcoreapp3.1\FirstExamProblem.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\FirstExamProblem\obj\Debug\netcoreapp3.1\FirstExamProblem.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.exe
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.deps.json
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.json
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.dll
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.pdb
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfo.cs
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.dll
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.pdb
+C:\Users\misho\source\repos\Unique Usernames\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.genruntimeconfig.cache

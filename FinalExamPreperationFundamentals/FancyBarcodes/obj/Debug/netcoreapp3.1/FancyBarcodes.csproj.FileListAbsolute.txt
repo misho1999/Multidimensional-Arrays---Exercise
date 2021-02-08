@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.exe
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.deps.json
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.runtimeconfig.json
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.runtimeconfig.dev.json
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.dll
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.AssemblyInfo.cs
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.dll
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\bin\Debug\netcoreapp3.1\Problem2.exe
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\bin\Debug\netcoreapp3.1\Problem2.deps.json
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.json
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.dev.json
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\bin\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\bin\Debug\netcoreapp3.1\Problem2.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\obj\Debug\netcoreapp3.1\Problem2.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfo.cs
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\obj\Debug\netcoreapp3.1\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\obj\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\obj\Debug\netcoreapp3.1\Problem2.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\Problem2\obj\Debug\netcoreapp3.1\Problem2.genruntimeconfig.cache

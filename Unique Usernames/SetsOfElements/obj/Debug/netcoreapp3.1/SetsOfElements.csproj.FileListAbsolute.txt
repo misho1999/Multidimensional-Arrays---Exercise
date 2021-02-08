@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\misho\source\repos\Unique Usernames\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache

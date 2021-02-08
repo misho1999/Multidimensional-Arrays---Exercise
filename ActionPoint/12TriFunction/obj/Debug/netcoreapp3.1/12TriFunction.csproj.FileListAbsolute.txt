@@ -1,0 +1,12 @@
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.AssemblyInfo.cs
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.exe
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.deps.json
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.runtimeconfig.json
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.runtimeconfig.dev.json
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.dll
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.pdb
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.dll
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.pdb
+C:\Users\misho\source\repos\01ActionPoint\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.genruntimeconfig.cache

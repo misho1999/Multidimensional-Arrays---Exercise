@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\bin\Debug\netcoreapp3.1\RegularExpresion.exe
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\bin\Debug\netcoreapp3.1\RegularExpresion.deps.json
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\bin\Debug\netcoreapp3.1\RegularExpresion.runtimeconfig.json
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\bin\Debug\netcoreapp3.1\RegularExpresion.runtimeconfig.dev.json
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\bin\Debug\netcoreapp3.1\RegularExpresion.dll
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\bin\Debug\netcoreapp3.1\RegularExpresion.pdb
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\obj\Debug\netcoreapp3.1\RegularExpresion.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\obj\Debug\netcoreapp3.1\RegularExpresion.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\obj\Debug\netcoreapp3.1\RegularExpresion.AssemblyInfo.cs
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\obj\Debug\netcoreapp3.1\RegularExpresion.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\obj\Debug\netcoreapp3.1\RegularExpresion.dll
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\obj\Debug\netcoreapp3.1\RegularExpresion.pdb
+C:\Users\misho\source\repos\RegularExpresion\RegularExpresion\obj\Debug\netcoreapp3.1\RegularExpresion.genruntimeconfig.cache

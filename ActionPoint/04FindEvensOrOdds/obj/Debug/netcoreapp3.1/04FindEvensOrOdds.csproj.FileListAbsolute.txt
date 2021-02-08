@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\bin\Debug\netcoreapp3.1\04FindEvensOrOdds.exe
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\bin\Debug\netcoreapp3.1\04FindEvensOrOdds.deps.json
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\bin\Debug\netcoreapp3.1\04FindEvensOrOdds.runtimeconfig.json
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\bin\Debug\netcoreapp3.1\04FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\bin\Debug\netcoreapp3.1\04FindEvensOrOdds.dll
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\bin\Debug\netcoreapp3.1\04FindEvensOrOdds.pdb
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\obj\Debug\netcoreapp3.1\04FindEvensOrOdds.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\obj\Debug\netcoreapp3.1\04FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\obj\Debug\netcoreapp3.1\04FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\obj\Debug\netcoreapp3.1\04FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\obj\Debug\netcoreapp3.1\04FindEvensOrOdds.dll
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\obj\Debug\netcoreapp3.1\04FindEvensOrOdds.pdb
+C:\Users\misho\source\repos\01ActionPoint\04FindEvensOrOdds\obj\Debug\netcoreapp3.1\04FindEvensOrOdds.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\bin\Debug\netcoreapp3.1\02KnightsOfHonor.exe
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\bin\Debug\netcoreapp3.1\02KnightsOfHonor.deps.json
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\bin\Debug\netcoreapp3.1\02KnightsOfHonor.runtimeconfig.json
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\bin\Debug\netcoreapp3.1\02KnightsOfHonor.runtimeconfig.dev.json
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\bin\Debug\netcoreapp3.1\02KnightsOfHonor.dll
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\bin\Debug\netcoreapp3.1\02KnightsOfHonor.pdb
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\obj\Debug\netcoreapp3.1\02KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\obj\Debug\netcoreapp3.1\02KnightsOfHonor.AssemblyInfo.cs
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\obj\Debug\netcoreapp3.1\02KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\obj\Debug\netcoreapp3.1\02KnightsOfHonor.dll
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\obj\Debug\netcoreapp3.1\02KnightsOfHonor.pdb
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\obj\Debug\netcoreapp3.1\02KnightsOfHonor.genruntimeconfig.cache
+C:\Users\misho\source\repos\01ActionPoint\02KnightsOfHonor\obj\Debug\netcoreapp3.1\02KnightsOfHonor.csprojAssemblyReference.cache

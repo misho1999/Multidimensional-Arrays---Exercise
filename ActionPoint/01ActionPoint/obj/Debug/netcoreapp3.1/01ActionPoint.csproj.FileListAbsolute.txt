@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\bin\Debug\netcoreapp3.1\01ActionPoint.exe
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\bin\Debug\netcoreapp3.1\01ActionPoint.deps.json
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\bin\Debug\netcoreapp3.1\01ActionPoint.runtimeconfig.json
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\bin\Debug\netcoreapp3.1\01ActionPoint.runtimeconfig.dev.json
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\bin\Debug\netcoreapp3.1\01ActionPoint.dll
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\bin\Debug\netcoreapp3.1\01ActionPoint.pdb
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\obj\Debug\netcoreapp3.1\01ActionPoint.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\obj\Debug\netcoreapp3.1\01ActionPoint.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\obj\Debug\netcoreapp3.1\01ActionPoint.AssemblyInfo.cs
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\obj\Debug\netcoreapp3.1\01ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\obj\Debug\netcoreapp3.1\01ActionPoint.dll
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\obj\Debug\netcoreapp3.1\01ActionPoint.pdb
+C:\Users\misho\source\repos\01ActionPoint\01ActionPoint\obj\Debug\netcoreapp3.1\01ActionPoint.genruntimeconfig.cache

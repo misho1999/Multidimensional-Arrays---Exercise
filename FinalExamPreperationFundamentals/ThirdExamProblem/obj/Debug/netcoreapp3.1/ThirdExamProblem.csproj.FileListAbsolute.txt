@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\bin\Debug\netcoreapp3.1\ThirdExamProblem.exe
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\bin\Debug\netcoreapp3.1\ThirdExamProblem.deps.json
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\bin\Debug\netcoreapp3.1\ThirdExamProblem.runtimeconfig.json
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\bin\Debug\netcoreapp3.1\ThirdExamProblem.runtimeconfig.dev.json
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\bin\Debug\netcoreapp3.1\ThirdExamProblem.dll
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\bin\Debug\netcoreapp3.1\ThirdExamProblem.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\obj\Debug\netcoreapp3.1\ThirdExamProblem.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\obj\Debug\netcoreapp3.1\ThirdExamProblem.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\obj\Debug\netcoreapp3.1\ThirdExamProblem.AssemblyInfo.cs
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\obj\Debug\netcoreapp3.1\ThirdExamProblem.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\obj\Debug\netcoreapp3.1\ThirdExamProblem.dll
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\obj\Debug\netcoreapp3.1\ThirdExamProblem.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\ThirdExamProblem\obj\Debug\netcoreapp3.1\ThirdExamProblem.genruntimeconfig.cache

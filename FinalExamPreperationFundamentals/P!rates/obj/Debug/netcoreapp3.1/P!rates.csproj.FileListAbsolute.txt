@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\bin\Debug\netcoreapp3.1\P!rates.exe
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\bin\Debug\netcoreapp3.1\P!rates.deps.json
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\bin\Debug\netcoreapp3.1\P!rates.runtimeconfig.json
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\bin\Debug\netcoreapp3.1\P!rates.runtimeconfig.dev.json
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\bin\Debug\netcoreapp3.1\P!rates.dll
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\bin\Debug\netcoreapp3.1\P!rates.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\obj\Debug\netcoreapp3.1\P!rates.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\obj\Debug\netcoreapp3.1\P!rates.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\obj\Debug\netcoreapp3.1\P!rates.AssemblyInfo.cs
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\obj\Debug\netcoreapp3.1\P!rates.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\obj\Debug\netcoreapp3.1\P!rates.dll
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\obj\Debug\netcoreapp3.1\P!rates.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\P!rates\obj\Debug\netcoreapp3.1\P!rates.genruntimeconfig.cache

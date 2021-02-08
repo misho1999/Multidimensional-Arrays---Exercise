@@ -1,0 +1,12 @@
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.exe
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.deps.json
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.json
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.dll
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.pdb
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfo.cs
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.dll
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.pdb
+C:\Users\misho\source\repos\Unique Usernames\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.genruntimeconfig.cache

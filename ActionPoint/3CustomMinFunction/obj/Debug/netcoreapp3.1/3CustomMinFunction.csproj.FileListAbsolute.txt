@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\bin\Debug\netcoreapp3.1\3CustomMinFunction.exe
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\bin\Debug\netcoreapp3.1\3CustomMinFunction.deps.json
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\bin\Debug\netcoreapp3.1\3CustomMinFunction.runtimeconfig.json
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\bin\Debug\netcoreapp3.1\3CustomMinFunction.runtimeconfig.dev.json
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\bin\Debug\netcoreapp3.1\3CustomMinFunction.dll
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\bin\Debug\netcoreapp3.1\3CustomMinFunction.pdb
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\obj\Debug\netcoreapp3.1\3CustomMinFunction.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\obj\Debug\netcoreapp3.1\3CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\obj\Debug\netcoreapp3.1\3CustomMinFunction.AssemblyInfo.cs
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\obj\Debug\netcoreapp3.1\3CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\obj\Debug\netcoreapp3.1\3CustomMinFunction.dll
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\obj\Debug\netcoreapp3.1\3CustomMinFunction.pdb
+C:\Users\misho\source\repos\01ActionPoint\3CustomMinFunction\obj\Debug\netcoreapp3.1\3CustomMinFunction.genruntimeconfig.cache

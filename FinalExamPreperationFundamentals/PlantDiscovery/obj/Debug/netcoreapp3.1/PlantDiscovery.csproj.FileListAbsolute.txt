@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.exe
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.deps.json
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.runtimeconfig.json
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.runtimeconfig.dev.json
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.dll
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.AssemblyInfo.cs
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.dll
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.genruntimeconfig.cache

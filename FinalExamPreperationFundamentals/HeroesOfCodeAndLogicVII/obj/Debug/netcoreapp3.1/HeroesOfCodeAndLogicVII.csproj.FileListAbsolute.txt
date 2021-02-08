@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.exe
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.deps.json
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.dll
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.dll
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.genruntimeconfig.cache

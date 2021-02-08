@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\bin\Debug\netcoreapp3.1\Mirrorwords.exe
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\bin\Debug\netcoreapp3.1\Mirrorwords.deps.json
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\bin\Debug\netcoreapp3.1\Mirrorwords.runtimeconfig.json
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\bin\Debug\netcoreapp3.1\Mirrorwords.runtimeconfig.dev.json
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\bin\Debug\netcoreapp3.1\Mirrorwords.dll
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\bin\Debug\netcoreapp3.1\Mirrorwords.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\obj\Debug\netcoreapp3.1\Mirrorwords.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\obj\Debug\netcoreapp3.1\Mirrorwords.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\obj\Debug\netcoreapp3.1\Mirrorwords.AssemblyInfo.cs
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\obj\Debug\netcoreapp3.1\Mirrorwords.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\obj\Debug\netcoreapp3.1\Mirrorwords.dll
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\obj\Debug\netcoreapp3.1\Mirrorwords.pdb
+C:\Users\misho\source\repos\FinalExamPreperation\Mirrorwords\obj\Debug\netcoreapp3.1\Mirrorwords.genruntimeconfig.cache
