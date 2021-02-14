@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\bin\Debug\netcoreapp3.1\CustomTuple.exe
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\bin\Debug\netcoreapp3.1\CustomTuple.deps.json
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\bin\Debug\netcoreapp3.1\CustomTuple.runtimeconfig.json
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\bin\Debug\netcoreapp3.1\CustomTuple.runtimeconfig.dev.json
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\bin\Debug\netcoreapp3.1\CustomTuple.dll
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\bin\Debug\netcoreapp3.1\CustomTuple.pdb
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\obj\Debug\netcoreapp3.1\CustomTuple.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\obj\Debug\netcoreapp3.1\CustomTuple.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\obj\Debug\netcoreapp3.1\CustomTuple.AssemblyInfo.cs
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\obj\Debug\netcoreapp3.1\CustomTuple.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\obj\Debug\netcoreapp3.1\CustomTuple.dll
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\obj\Debug\netcoreapp3.1\CustomTuple.pdb
+C:\Users\misho\source\repos\GenericBoxOfString\CustomTuple\obj\Debug\netcoreapp3.1\CustomTuple.genruntimeconfig.cache

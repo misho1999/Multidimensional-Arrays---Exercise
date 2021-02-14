@@ -1,0 +1,12 @@
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.exe
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.deps.json
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.runtimeconfig.json
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.dll
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.pdb
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.AssemblyInfo.cs
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.dll
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.pdb
+C:\Users\misho\source\repos\ListyIterator\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.genruntimeconfig.cache
