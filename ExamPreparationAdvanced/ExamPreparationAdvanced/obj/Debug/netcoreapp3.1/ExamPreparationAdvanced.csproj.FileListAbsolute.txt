@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\bin\Debug\netcoreapp3.1\ExamPreparationAdvanced.exe
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\bin\Debug\netcoreapp3.1\ExamPreparationAdvanced.deps.json
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\bin\Debug\netcoreapp3.1\ExamPreparationAdvanced.runtimeconfig.json
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\bin\Debug\netcoreapp3.1\ExamPreparationAdvanced.runtimeconfig.dev.json
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\bin\Debug\netcoreapp3.1\ExamPreparationAdvanced.dll
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\bin\Debug\netcoreapp3.1\ExamPreparationAdvanced.pdb
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\obj\Debug\netcoreapp3.1\ExamPreparationAdvanced.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\obj\Debug\netcoreapp3.1\ExamPreparationAdvanced.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\obj\Debug\netcoreapp3.1\ExamPreparationAdvanced.AssemblyInfo.cs
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\obj\Debug\netcoreapp3.1\ExamPreparationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\obj\Debug\netcoreapp3.1\ExamPreparationAdvanced.dll
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\obj\Debug\netcoreapp3.1\ExamPreparationAdvanced.pdb
+C:\Users\misho\source\repos\FlowerWreaths\ExamPreparationAdvanced\obj\Debug\netcoreapp3.1\ExamPreparationAdvanced.genruntimeconfig.cache
