@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPreparationAdvanced", "ExamPreparationAdvanced\ExamPreparationAdvanced.csproj", "{D0EB7BFC-6BE1-422E-8AA1-D840DE04BBF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamPreparationAdvanced", "ExamPreparationAdvanced\ExamPreparationAdvanced.csproj", "{D0EB7BFC-6BE1-422E-8AA1-D840DE04BBF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee", "Bee\Bee.csproj", "{B237A971-30AB-4D2E-ACEB-07A7B6D5C662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bee", "Bee\Bee.csproj", "{B237A971-30AB-4D2E-ACEB-07A7B6D5C662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduling", "Scheduling\Scheduling.csproj", "{02489E8F-2B90-48E9-9A32-3414FA05CCDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garden", "Garden\Garden.csproj", "{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{B237A971-30AB-4D2E-ACEB-07A7B6D5C662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B237A971-30AB-4D2E-ACEB-07A7B6D5C662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B237A971-30AB-4D2E-ACEB-07A7B6D5C662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02489E8F-2B90-48E9-9A32-3414FA05CCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02489E8F-2B90-48E9-9A32-3414FA05CCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02489E8F-2B90-48E9-9A32-3414FA05CCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02489E8F-2B90-48E9-9A32-3414FA05CCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

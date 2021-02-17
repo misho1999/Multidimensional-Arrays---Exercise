@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.exe
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.deps.json
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.json
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfo.cs
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.genruntimeconfig.cache
