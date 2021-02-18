@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\ExamPreparationAdvanced\\ExamPreparationAdvanced.csproj",
+      "projectUniqueName": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\ExamPreparationAdvanced\\ExamPreparationAdvanced.csproj",
       "projectName": "ExamPreparationAdvanced",
-      "projectPath": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\ExamPreparationAdvanced\\ExamPreparationAdvanced.csproj",
+      "projectPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\ExamPreparationAdvanced\\ExamPreparationAdvanced.csproj",
       "packagesPath": "C:\\Users\\misho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\ExamPreparationAdvanced\\obj\\",
+      "outputPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\ExamPreparationAdvanced\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\misho\\AppData\\Roaming\\NuGet\\NuGet.Config",

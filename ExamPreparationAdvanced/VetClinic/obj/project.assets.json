@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\misho\\source\\repos\\FlowerWreaths\\VetClinic\\VetClinic.csproj",
+      "projectUniqueName": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\VetClinic\\VetClinic.csproj",
       "projectName": "VetClinic",
-      "projectPath": "C:\\Users\\misho\\source\\repos\\FlowerWreaths\\VetClinic\\VetClinic.csproj",
+      "projectPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\VetClinic\\VetClinic.csproj",
       "packagesPath": "C:\\Users\\misho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\misho\\source\\repos\\FlowerWreaths\\VetClinic\\obj\\",
+      "outputPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\VetClinic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\misho\\AppData\\Roaming\\NuGet\\NuGet.Config",

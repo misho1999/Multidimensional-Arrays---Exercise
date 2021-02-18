@@ -1,0 +1,12 @@
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache

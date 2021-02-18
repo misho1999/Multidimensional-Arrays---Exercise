@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Garden\\Garden.csproj": {}
+    "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Garden\\Garden.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Garden\\Garden.csproj": {
+    "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Garden\\Garden.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Garden\\Garden.csproj",
+        "projectUniqueName": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Garden\\Garden.csproj",
         "projectName": "Garden",
-        "projectPath": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Garden\\Garden.csproj",
+        "projectPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Garden\\Garden.csproj",
         "packagesPath": "C:\\Users\\misho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Garden\\obj\\",
+        "outputPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Garden\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\misho\\AppData\\Roaming\\NuGet\\NuGet.Config",

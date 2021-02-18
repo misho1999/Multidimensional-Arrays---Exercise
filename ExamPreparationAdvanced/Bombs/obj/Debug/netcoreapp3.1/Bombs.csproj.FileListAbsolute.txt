@@ -1,0 +1,13 @@
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\obj\Debug\netcoreapp3.1\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\obj\Debug\netcoreapp3.1\Bombs.genruntimeconfig.cache
+C:\Users\misho\SoftuniRepo\Softuni\ExamPreparationAdvanced\Bombs\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
