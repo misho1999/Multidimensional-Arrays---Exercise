@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamPreparationAdvanced", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bee", "Bee\Bee.csproj", "{B237A971-30AB-4D2E-ACEB-07A7B6D5C662}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduling", "Scheduling\Scheduling.csproj", "{02489E8F-2B90-48E9-9A32-3414FA05CCDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scheduling", "Scheduling\Scheduling.csproj", "{02489E8F-2B90-48E9-9A32-3414FA05CCDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garden", "Garden\Garden.csproj", "{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Garden", "Garden\Garden.csproj", "{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selling", "Selling\Selling.csproj", "{B04C081C-7061-4ABD-86CC-7FCA7F44D7C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A5A57AE-98F3-4AE3-B84A-33E4FC93D1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04C081C-7061-4ABD-86CC-7FCA7F44D7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04C081C-7061-4ABD-86CC-7FCA7F44D7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04C081C-7061-4ABD-86CC-7FCA7F44D7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04C081C-7061-4ABD-86CC-7FCA7F44D7C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\bin\Debug\netcoreapp3.1\Selling.exe
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\bin\Debug\netcoreapp3.1\Selling.deps.json
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.json
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\bin\Debug\netcoreapp3.1\Selling.dll
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\bin\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfo.cs
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\obj\Debug\netcoreapp3.1\Selling.dll
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\obj\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\obj\Debug\netcoreapp3.1\Selling.genruntimeconfig.cache
+C:\Users\misho\source\repos\ExamPreparationAdvanced\Selling\obj\Debug\netcoreapp3.1\Selling.csprojAssemblyReference.cache
