@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Bee\\Bee.csproj",
+      "projectUniqueName": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Bee\\Bee.csproj",
       "projectName": "Bee",
-      "projectPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Bee\\Bee.csproj",
+      "projectPath": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Bee\\Bee.csproj",
       "packagesPath": "C:\\Users\\misho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Bee\\obj\\",
+      "outputPath": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Bee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
