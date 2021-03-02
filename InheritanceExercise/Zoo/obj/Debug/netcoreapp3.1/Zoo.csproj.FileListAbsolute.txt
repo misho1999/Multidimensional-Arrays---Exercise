@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache

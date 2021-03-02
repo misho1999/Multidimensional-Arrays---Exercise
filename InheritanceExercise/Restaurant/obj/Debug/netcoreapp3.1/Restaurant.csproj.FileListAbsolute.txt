@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\misho\source\repos\InheritanceExercise\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

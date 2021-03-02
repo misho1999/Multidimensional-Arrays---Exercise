@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Parking\\Parking\\Parking.csproj": {}
+    "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Parking\\Parking\\Parking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Parking\\Parking\\Parking.csproj": {
+    "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Parking\\Parking\\Parking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Parking\\Parking\\Parking.csproj",
+        "projectUniqueName": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Parking\\Parking\\Parking.csproj",
         "projectName": "Parking",
-        "projectPath": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Parking\\Parking\\Parking.csproj",
+        "projectPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Parking\\Parking\\Parking.csproj",
         "packagesPath": "C:\\Users\\misho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misho\\source\\repos\\ExamPreparationAdvanced\\Parking\\Parking\\obj\\",
+        "outputPath": "C:\\Users\\misho\\SoftuniRepo\\Softuni\\ExamPreparationAdvanced\\Parking\\Parking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
