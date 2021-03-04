@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\obj\Debug\netcoreapp3.1\ShopingSpree.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\obj\Debug\netcoreapp3.1\ShopingSpree.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\obj\Debug\netcoreapp3.1\ShopingSpree.AssemblyInfo.cs
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\obj\Debug\netcoreapp3.1\ShopingSpree.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\bin\Debug\netcoreapp3.1\ShopingSpree.exe
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\bin\Debug\netcoreapp3.1\ShopingSpree.deps.json
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\bin\Debug\netcoreapp3.1\ShopingSpree.runtimeconfig.json
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\bin\Debug\netcoreapp3.1\ShopingSpree.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\bin\Debug\netcoreapp3.1\ShopingSpree.dll
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\bin\Debug\netcoreapp3.1\ShopingSpree.pdb
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\obj\Debug\netcoreapp3.1\ShopingSpree.dll
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\obj\Debug\netcoreapp3.1\ShopingSpree.pdb
+C:\Users\misho\source\repos\ClassBoxData\ShopingSpree\obj\Debug\netcoreapp3.1\ShopingSpree.genruntimeconfig.cache

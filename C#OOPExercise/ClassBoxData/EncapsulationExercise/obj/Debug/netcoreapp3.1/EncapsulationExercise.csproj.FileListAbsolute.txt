@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.exe
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.deps.json
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.runtimeconfig.json
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.dll
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\bin\Debug\netcoreapp3.1\EncapsulationExercise.pdb
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.AssemblyInfo.cs
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.dll
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.pdb
+C:\Users\misho\source\repos\ClassBoxData\EncapsulationExercise\obj\Debug\netcoreapp3.1\EncapsulationExercise.genruntimeconfig.cache
