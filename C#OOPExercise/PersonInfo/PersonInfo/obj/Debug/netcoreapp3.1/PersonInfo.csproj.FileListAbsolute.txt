@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\misho\source\repos\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

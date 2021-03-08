@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\misho\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\misho\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\misho\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\misho\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\misho\source\repos\PersonInfo\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\misho\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\misho\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\misho\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\misho\source\repos\PersonInfo\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache
