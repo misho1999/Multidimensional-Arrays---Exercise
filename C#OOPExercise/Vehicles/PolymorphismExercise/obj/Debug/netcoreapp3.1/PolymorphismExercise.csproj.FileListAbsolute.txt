@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.exe
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.deps.json
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.runtimeconfig.json
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.dll
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.pdb
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.AssemblyInfo.cs
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.dll
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.pdb
+C:\Users\misho\source\repos\Vehicles\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.genruntimeconfig.cache
