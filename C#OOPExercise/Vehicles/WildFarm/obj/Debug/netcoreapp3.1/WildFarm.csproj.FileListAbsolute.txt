@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\Vehicles\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\Vehicles\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Vehicles\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+C:\Users\misho\source\repos\Vehicles\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Vehicles\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.exe
+C:\Users\misho\source\repos\Vehicles\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+C:\Users\misho\source\repos\Vehicles\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+C:\Users\misho\source\repos\Vehicles\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Vehicles\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\misho\source\repos\Vehicles\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Users\misho\source\repos\Vehicles\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\misho\source\repos\Vehicles\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Users\misho\source\repos\Vehicles\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache
