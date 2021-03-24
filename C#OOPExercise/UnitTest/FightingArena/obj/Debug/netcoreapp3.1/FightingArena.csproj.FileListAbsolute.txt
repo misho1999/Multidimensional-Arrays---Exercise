@@ -1,0 +1,9 @@
+C:\Users\misho\source\repos\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\misho\source\repos\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\misho\source\repos\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\misho\source\repos\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\misho\source\repos\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\misho\source\repos\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

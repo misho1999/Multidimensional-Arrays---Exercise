@@ -1,0 +1,14 @@
+C:\Users\misho\source\repos\Database\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\misho\source\repos\Database\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\misho\source\repos\Database\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\misho\source\repos\Database\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\misho\source\repos\Database\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\misho\source\repos\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\misho\source\repos\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\misho\source\repos\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\misho\source\repos\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\misho\source\repos\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\misho\source\repos\Database\obj\Debug\netcoreapp3.1\Database.pdb

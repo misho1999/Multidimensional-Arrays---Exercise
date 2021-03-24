@@ -1,0 +1,9 @@
+C:\Users\misho\source\repos\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+C:\Users\misho\source\repos\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\misho\source\repos\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+C:\Users\misho\source\repos\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+C:\Users\misho\source\repos\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\misho\source\repos\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb
+C:\Users\misho\source\repos\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csprojAssemblyReference.cache
