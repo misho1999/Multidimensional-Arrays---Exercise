@@ -1,0 +1,12 @@
+C:\Users\misho\source\repos\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\misho\source\repos\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\misho\source\repos\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\misho\source\repos\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\misho\source\repos\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\misho\source\repos\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\misho\source\repos\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\misho\source\repos\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\misho\source\repos\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache

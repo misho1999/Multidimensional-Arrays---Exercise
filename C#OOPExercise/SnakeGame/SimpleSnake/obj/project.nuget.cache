@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OmZMmGdlXa4LXFVsdePSYjIQBITepOjhUfU+VnEXFbxxU+TH6RJYQbgvoyicgdE2tqqdWx+j0iwK+o/fwKaG4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\misho\\source\\repos\\Snake\\SimpleSnake\\SimpleSnake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\misho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
