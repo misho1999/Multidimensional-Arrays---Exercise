@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ExamPreparationOOP\bin\Debug\netcoreapp3.1\WarCroft.exe
+C:\Users\misho\source\repos\ExamPreparationOOP\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+C:\Users\misho\source\repos\ExamPreparationOOP\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+C:\Users\misho\source\repos\ExamPreparationOOP\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ExamPreparationOOP\bin\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\misho\source\repos\ExamPreparationOOP\bin\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\misho\source\repos\ExamPreparationOOP\obj\Debug\netcoreapp3.1\WarCroft.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\ExamPreparationOOP\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ExamPreparationOOP\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+C:\Users\misho\source\repos\ExamPreparationOOP\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ExamPreparationOOP\obj\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\misho\source\repos\ExamPreparationOOP\obj\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\misho\source\repos\ExamPreparationOOP\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache
