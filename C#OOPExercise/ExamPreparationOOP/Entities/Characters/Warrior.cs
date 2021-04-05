@@ -9,13 +9,14 @@ namespace WarCroft.Entities.Characters
 {
     public class Warrior : Character, IAttacker
     {
+
         private Bag bag;
-        public Warrior(string name) : base(name, 100, 50, 400, new Satchel())
+        public Warrior(string name) : base(name, 100, 50, 40, new Satchel())
         {
             bag = new Satchel();
         }
 
-        public void Attack(Character character)
+        public override void Attack(Character character)
         {
             double attackPower = this.AbilityPoints;
             
@@ -39,9 +40,15 @@ namespace WarCroft.Entities.Characters
                 {
                     character.IsAlive = false;
                     character.Health = 0;
+                    
                 }
                 character.Health -= attackPower;
             }
+        }
+
+        public override void Heal(Character character)
+        {
+            throw new ArgumentException(ExceptionMessages.HealerCannotHeal);
         }
     }
 }

@@ -17,10 +17,11 @@ namespace WarCroft.Entities.Items
             {
                 throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
             }
-            if (character.Health <= 20)
+            else if (character.Health <= 20)
             {
                 character.IsAlive = false;
-                
+                character.Health = 0;
+                return;
             }
             character.Health -= 20;
 

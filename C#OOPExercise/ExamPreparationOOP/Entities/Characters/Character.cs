@@ -6,7 +6,7 @@ using WarCroft.Entities.Items;
 
 namespace WarCroft.Entities.Characters.Contracts
 {
-    public abstract class Character
+    public abstract class Character : IAttacker, IHealer
     {
         // TODO: Implement the rest of the class.
         private string name;
@@ -14,15 +14,17 @@ namespace WarCroft.Entities.Characters.Contracts
         private double armor;
 
 
-        public virtual double BaseHealth { get; set; }
-        public virtual double BaseArmor { get; set; }
-        public double AbilityPoints { get; set; }
+        public virtual double BaseHealth { get; private set; }
+        public virtual double BaseArmor { get; private set; }
+        public double AbilityPoints { get; private set; }
         public Bag Bag { get; set; }
         
         public Character(string name, double health, double armor, double abilityPoints, Bag bag)
         {
             this.Name = name;
-            this.Health = health;
+            this.health = health;
+            this.BaseHealth = health;
+            this.BaseArmor = armor;
             this.Armor = armor;
             this.AbilityPoints = abilityPoints;
             this.Bag = bag;
@@ -116,5 +118,7 @@ namespace WarCroft.Entities.Characters.Contracts
             item.AffectCharacter(this);
         }
 
+        public abstract void Heal(Character character);
+        public abstract void Attack(Character character);
     }
 }
