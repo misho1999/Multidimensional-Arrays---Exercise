@@ -12,7 +12,6 @@ namespace EasterRaces.Models.Races.Entities
         private int laps;
         private IReadOnlyCollection<IDriver> drivers;
         private List<IDriver> driverss;
-        private IDriver driver;
         public Race(string name,int laps)
         {
             this.Name = name;

@@ -1,0 +1,9 @@
+C:\Users\misho\source\repos\ExamPreparationOOP\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\misho\source\repos\ExamPreparationOOP\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\misho\source\repos\ExamPreparationOOP\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\misho\source\repos\ExamPreparationOOP\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\ExamPreparationOOP\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ExamPreparationOOP\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\misho\source\repos\ExamPreparationOOP\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ExamPreparationOOP\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\misho\source\repos\ExamPreparationOOP\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
