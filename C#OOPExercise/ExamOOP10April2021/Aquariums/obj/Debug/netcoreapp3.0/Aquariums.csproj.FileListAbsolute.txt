@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\misho\source\repos\ExamOOP10April2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

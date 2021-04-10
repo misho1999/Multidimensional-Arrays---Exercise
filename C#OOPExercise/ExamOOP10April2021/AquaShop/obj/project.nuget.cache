@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUD8ILsnPOi83P2vmWXLNoZQc/R7VOLfXL58/F4cH+li9tomQZwQxf/f+GRa21NBTxrGLxD0gQal2rg++oX6Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\misho\\source\\repos\\ExamOOP10April2021\\AquaShop\\AquaShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\misho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

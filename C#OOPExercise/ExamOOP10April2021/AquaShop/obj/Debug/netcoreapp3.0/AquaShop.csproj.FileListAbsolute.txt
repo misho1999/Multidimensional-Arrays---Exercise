@@ -1,0 +1,13 @@
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\misho\source\repos\ExamOOP10April2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
